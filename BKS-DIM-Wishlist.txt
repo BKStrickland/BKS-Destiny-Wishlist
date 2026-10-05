@@ -29,3 +29,8 @@ description:BKS weapon roll system for identifying strong PvE and PvP weapon rol
 // BKS recommendations primarily evaluate the major perk combination.
 //
 // Version: 1.0
+
+// TEMPTATION'S HOOK
+// PvE | A | Sustained / Arc Utility
+// Relentless Strikes + Jolting Feedback
+dimwishlist:item=3977827673&perks=1749209109,3966416502#notes:BKS | PvE | A | Sustained / Arc Utility | Relentless Strikes + Jolting Feedback
