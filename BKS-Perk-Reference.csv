@@ -1,0 +1,7 @@
+weapon_name,weapon_hash,perk_name,perk_hash,perk_column,verification,notes
+MIDA Macro-Tool,2699423382,Slideshot,3161816588,3,User-confirmed DIM Armory selection,PvP roll with Opening Shot
+MIDA Macro-Tool,2699423382,Opening Shot,47981717,4,User-confirmed DIM Armory selection,PvP roll with Slideshot
+MIDA Macro-Tool,2699423382,Threat Detector,4071163871,3,User-confirmed DIM Armory selection,PvE roll with One-Two Punch
+MIDA Macro-Tool,2699423382,One-Two Punch,2679249093,4,User-confirmed DIM Armory selection,PvE roll with Threat Detector
+Temptation's Hook,3977827673,Relentless Strikes,1749209109,3,Previously tested in DIM,PvE sustained and Arc utility
+Temptation's Hook,3977827673,Jolting Feedback,3966416502,4,Previously tested in DIM,PvE sustained and Arc utility
