@@ -34,3 +34,30 @@ description:BKS weapon roll system for identifying strong PvE and PvP weapon rol
 // PvE | A | Sustained / Arc Utility
 // Relentless Strikes + Jolting Feedback
 dimwishlist:item=3977827673&perks=1749209109,3966416502#notes:BKS | PvE | A | Sustained / Arc Utility | Relentless Strikes + Jolting Feedback
+// MIDA MACRO-TOOL — BKS Balanced
+// Weapon hash: 2699423382
+// 8 approved major-perk combinations
+
+// PvP | GOD | DUELING | Slideshot + Opening Shot
+dimwishlist:item=2699423382&perks=3161816588,47981717#notes:BKS | PvP | GOD | DUELING | Slideshot + Opening Shot
+
+// PvP | GOD | DUELING | Threat Detector + Opening Shot
+dimwishlist:item=2699423382&perks=4071163871,47981717#notes:BKS | PvP | GOD | DUELING | Threat Detector + Opening Shot
+
+// PvP | S | DUELING | Threat Detector + Closing Time
+dimwishlist:item=2699423382&perks=4071163871,1194056669#notes:BKS | PvP | S | DUELING | Threat Detector + Closing Time
+
+// PvP | S | AGGRESSIVE | Slideshot + Closing Time
+dimwishlist:item=2699423382&perks=3161816588,1194056669#notes:BKS | PvP | S | AGGRESSIVE | Slideshot + Closing Time
+
+// PvP | S | DUELING | Lone Wolf + Opening Shot
+dimwishlist:item=2699423382&perks=2579169598,47981717#notes:BKS | PvP | S | DUELING | Lone Wolf + Opening Shot
+
+// PvE | S | MELEE BUILD | Grave Robber + One-Two Punch
+dimwishlist:item=2699423382&perks=1631667848,2679249093#notes:BKS | PvE | S | MELEE BUILD | Grave Robber + One-Two Punch
+
+// PvE | A | MELEE BUILD | Threat Detector + One-Two Punch
+dimwishlist:item=2699423382&perks=4071163871,2679249093#notes:BKS | PvE | A | MELEE BUILD | Threat Detector + One-Two Punch
+
+// PvE | A | CLOSE-RANGE DPS | Grave Robber + Trench Barrel
+dimwishlist:item=2699423382&perks=1631667848,2360754333#notes:BKS | PvE | A | CLOSE-RANGE DPS | Grave Robber + Trench Barrel
